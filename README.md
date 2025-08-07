@@ -46,3 +46,4 @@ This project demonstrates the implementation and training of a **Spiking Neural 
 - **Accuracy**: ~96-98% on MNIST after a few epochs
 - **Confusion Matrix**: Visualizes performance across digit classes
 
+![Confusion Matrix](matrice_confuzie_snn.png)
