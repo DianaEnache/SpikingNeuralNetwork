@@ -1,4 +1,4 @@
-# 🧠 Spiking Neural Networks (SNN) for Classification using snnTorch
+# Spiking Neural Networks (SNN) for Classification using snnTorch
 
 This project demonstrates the implementation and training of a **Spiking Neural Network (SNN)** on the **MNIST** dataset using the `snntorch` library. Inspired by the behavior of biological neurons, SNNs are energy-efficient and time-aware neural networks, ideal for sequential data processing.
 
