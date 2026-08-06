@@ -41,7 +41,7 @@ This project demonstrates the implementation and training of a **Spiking Neural 
 5. **Confusion Matrix**
    - A normalized confusion matrix is visualized using `seaborn`.
 
-## 📈 Results
+## Results
 
 - **Accuracy**: ~96-98% on MNIST after a few epochs
 - **Confusion Matrix**: Visualizes performance across digit classes
